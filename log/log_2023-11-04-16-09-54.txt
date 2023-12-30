@@ -1,0 +1,1055 @@
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 0, value, loss 401.4989767074585
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 0, policy, loss -0.060135278229912124
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 1, value, loss 399.01024373372394
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 1, policy, loss -0.09284010886525114
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 2, value, loss 400.20258410771686
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 2, policy, loss -0.09871608725128074
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 3, value, loss 404.13945468266803
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 3, policy, loss -0.10293645675604542
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 4, value, loss 398.17663796742755
+DEBUG:root:<<dialog policy ppo>> epoch 0, iteration 4, policy, loss -0.0998016680823639
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [dontcare] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: hospital
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+WARNING:root:illegal booking slot: time, domain: hospital
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: leaveAt domain: train)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 0, value, loss 790.873970209166
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 0, policy, loss -0.11666196333461029
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 1, value, loss 787.2582294552825
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 1, policy, loss -0.13711048628008643
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 2, value, loss 783.2436055028161
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 2, policy, loss -0.13919505394648674
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 3, value, loss 777.662788568541
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 3, policy, loss -0.1423580709758193
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 4, value, loss 770.5044133385946
+DEBUG:root:<<dialog policy ppo>> epoch 1, iteration 4, policy, loss -0.14052016669234565
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 0, value, loss 857.185802957286
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 0, policy, loss -0.11131242096788534
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 1, value, loss 825.8625629259193
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 1, policy, loss -0.11978243542430193
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 2, value, loss 822.584645146909
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 2, policy, loss -0.12810104741188494
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 3, value, loss 797.576554339865
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 3, policy, loss -0.12850131880006063
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 4, value, loss 798.4115414826766
+DEBUG:root:<<dialog policy ppo>> epoch 2, iteration 4, policy, loss -0.14464350992246813
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 0, value, loss 716.1035915942903
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 0, policy, loss -0.08900069675229966
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 1, value, loss 701.4353877940076
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 1, policy, loss -0.11721465276910904
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 2, value, loss 687.338983738676
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 2, policy, loss -0.12971227901413085
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 3, value, loss 669.3537987242354
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 3, policy, loss -0.1274748477847018
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 4, value, loss 641.5576129669839
+DEBUG:root:<<dialog policy ppo>> epoch 3, iteration 4, policy, loss -0.12691568757625335
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 0, value, loss 9401.231942409939
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 0, policy, loss -0.07402945798304346
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 1, value, loss 9237.298197428385
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 1, policy, loss -0.1022460114210844
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 2, value, loss 9024.009851752387
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 2, policy, loss -0.1022280534936322
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 3, value, loss 8924.877932400173
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 3, policy, loss -0.10384824288388093
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 4, value, loss 8958.959787326388
+DEBUG:root:<<dialog policy ppo>> epoch 4, iteration 4, policy, loss -0.10877331573930052
+INFO:root:<<dialog policy>> epoch 4: saved network to mdl
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 0, value, loss 810.376488727072
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 0, policy, loss -0.10862336858459141
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 1, value, loss 786.3388512652854
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 1, policy, loss -0.12605958739700523
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 2, value, loss 764.0012054443359
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 2, policy, loss -0.12399974335794864
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 3, value, loss 742.7128488291864
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 3, policy, loss -0.13066564257378163
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 4, value, loss 724.1329902980639
+DEBUG:root:<<dialog policy ppo>> epoch 5, iteration 4, policy, loss -0.13054027209949234
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 0, value, loss 3579.7460611032884
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 0, policy, loss -0.06802759029317734
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 1, value, loss 3869.3584275356557
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 1, policy, loss -0.08312471908365571
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 2, value, loss 3488.503065242324
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 2, policy, loss -0.06860424060547768
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 3, value, loss 3457.70538897847
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 3, policy, loss -0.0675762751421263
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 4, value, loss 3433.9267067132996
+DEBUG:root:<<dialog policy ppo>> epoch 6, iteration 4, policy, loss -0.07669600313745958
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 0, value, loss 754.7339633517795
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 0, policy, loss -0.049440221654044256
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 1, value, loss 734.7117533365886
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 1, policy, loss -0.07925479809443156
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 2, value, loss 739.304690890842
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 2, policy, loss -0.10675080294410387
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 3, value, loss 685.6611877441406
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 3, policy, loss -0.07865116749372747
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 4, value, loss 670.593529595269
+DEBUG:root:<<dialog policy ppo>> epoch 7, iteration 4, policy, loss -0.10178871295518345
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 0, value, loss 844.8682641317678
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 0, policy, loss -0.04083785471008267
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 1, value, loss 777.5730257256087
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 1, policy, loss -0.0732222619184921
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 2, value, loss 764.3575311705124
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 2, policy, loss -0.09054062480843345
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 3, value, loss 758.5973766238191
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 3, policy, loss -0.09792401468337969
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 4, value, loss 744.2871398925781
+DEBUG:root:<<dialog policy ppo>> epoch 8, iteration 4, policy, loss -0.08517548489535964
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 0, value, loss 4428.582644206722
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 0, policy, loss -0.04614249207988018
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 1, value, loss 4262.021572206078
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 1, policy, loss -0.06408612620903224
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 2, value, loss 4180.127100502573
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 2, policy, loss -0.05817312992564062
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 3, value, loss 4118.53464936047
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 3, policy, loss -0.0673112831101185
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 4, value, loss 4091.1532830959413
+DEBUG:root:<<dialog policy ppo>> epoch 9, iteration 4, policy, loss -0.07128030007205359
+INFO:root:<<dialog policy>> epoch 9: saved network to mdl
+DEBUG:root:Value not found in standard value set: [16356714934] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [48462528232] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [54825439861] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [26747593883] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [97768237465] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [27716215818] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [82824944564] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [71448186662] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [87262688967] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [21456534347] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [63684887768] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [26345372369] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [19136919978] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [44598935899] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [38733317735] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [49586171299] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [54737961421] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [83146684237] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [27593335611] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [67433618378] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [89331767593] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [76194193576] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [99844484633] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [46226236365] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [78167783366] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [72722571997] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [25576224731] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [35938435936] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [93115999581] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [12115771726] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [79215858421] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [36922487262] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [53868281428] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [61585351145] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [79694834272] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [89681147215] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [68386949591] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [dontcare] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [69698125714] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [21429469667] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [36812561257] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [14811517299] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [97768537961] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [94482985544] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [84963916583] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [35411699879] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [99546233114] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [23153725192] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [98748692644] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [23736716143] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [18856697956] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [75647478378] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [22916665269] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [17663665171] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [99314175226] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [32593546636] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [99116625531] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: stars domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: hotel)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [25581736689] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [81742354454] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [46346437345] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [28332323747] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [48539846243] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, slot: taxi domain
+DEBUG:root:Value not found in standard value set: [32397366774] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [25415739151] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [32738499598] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [66817464318] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [85469347126] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [13722617766] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [39651676598] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [53795756671] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [89617327285] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [18882531914] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [93746272712] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [85275161448] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [56794446752] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, slot: taxi domain
+DEBUG:root:Value not found in standard value set: [58452575641] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [22593578812] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [97851619347] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [74582216949] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [59792492296] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [21462299618] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [37265133629] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [67452196467] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [29941113919] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [99769429154] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [23577345851] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [63941328477] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [63458141813] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [62667844433] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [42685954932] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [95972169867] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [85566885676] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [41968353576] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [51646983188] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: attraction
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: postcode domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [82799427269] (slot: phone domain: taxi)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+WARNING:root:illegal booking slot: time, domain: hospital
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [61175899693] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [94191434845] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [45547192873] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [47332881195] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [53932432128] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, slot: taxi domain
+DEBUG:root:Value not found in standard value set: [36629765313] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [26783361424] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [85229925978] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [75554421242] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [41618365557] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [77271956189] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [83774763749] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [12428946672] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [89813378784] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [95996433561] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [89688613346] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [22314168139] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [54126219985] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+WARNING:root:illegal booking slot: time, slot: taxi domain
+DEBUG:root:Value not found in standard value set: [98581384346] (slot: phone domain: taxi)
+WARNING:root:illegal booking slot: time, domain: taxi
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: pricerange domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: area domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: address domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: name domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: food domain: restaurant)
+DEBUG:root:Value not found in standard value set: [none] (slot: type domain: attraction)
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 0, value, loss 43130.69443121189
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 0, policy, loss -0.1290921624295595
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 1, value, loss 41383.35899390244
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 1, policy, loss -0.14332030327400055
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 2, value, loss 40295.707769626526
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 2, policy, loss -0.14809153301686775
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 3, value, loss 39196.70769817073
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 3, policy, loss -0.14807736010449687
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 4, value, loss 38432.858565167684
+DEBUG:root:<<dialog policy ppo>> epoch 10, iteration 4, policy, loss -0.1502812374837515
